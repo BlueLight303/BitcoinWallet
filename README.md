@@ -1,4 +1,4 @@
-# [Bitcoin Wallet Manager]
+# Bitcoin Wallet Manager
 
 This is a node js project for creating a wallet, checking and sending a bitcoin to another.
 
